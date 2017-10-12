@@ -7,22 +7,25 @@ Keep reading if you want to know how I compile these. I'm sure there is a better
 The fastest way I have found is by the following steps:
 
 1) select and copy the text of the S-99
-2) paste into a plain text document and save
-3) in Excel or Calc, use the import feature
-4) choose to separate data by '.' (period)
-5) import; the talk numbers and titles should be in 2 separate columns
-6) copy the talk title column
-7) paste into InDesign
+2) paste into a text editor
+3) clean up the file: make sure each title is on a separate line; remove running footers 
+4) save as .csv (see `assets/examples/talk-title-import.csv`)
+5) in Excel or Calc, use the import feature
+6) choose to separate data by '.' (period)
+7) import; the talk numbers and titles should be in 2 separate columns
+8) copy the talk title column
+9) paste into InDesign
 
 You will still have to make minor adjustments to the individual pages (slides). But at least now you don't have to individually copy 200 lines of text (or delete 200 numbers).
 
 ## Adjustments
+Some titles are short, some are long. Go through each page to make sure it looks alright. to line breaks. 
 To accomodate different lengths of talk titles, there are 3 page templates to choose from:  
 • 1L = 1-line  
 • 2L = 2-line  
 • 3L = 3-line
   
-You will have to go through every page to see which one fits best. When applying good text layout principles, you might have to add line breaks to see what looks best. Therefore it makes sense to start with the 3-line template to give you room for experimentation. 
+Start with the 3-line template to give you room for experimentation. When applying good text layout principles, you might have to add line breaks to see what looks best. Therefore it makes sense to start with the 3-line template to give you room for experimentation. 
 
 ## Exporting from InDesign
 Export as PNG. The settings are:
