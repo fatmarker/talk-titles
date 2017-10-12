@@ -29,7 +29,14 @@ To accomodate different lengths of talk titles, there are 3 page templates to ch
   
 Start with the 3-line template to give you room for experimentation. Apply good text layout principles. Add line breaks where necessary. Ask someone with experience in text layout and a strong grasp of the language to assist you.  
   
-Poorly laid-out text can be distracting.
+Poorly laid-out text can be distracting.  
+
+Here are a few simple rules to follow:  
+- a preposition remains on the same line as its object
+- line breaks should come before em-dashes and not after
+
+### Styles
+Sometimes part of a title is naturally read aloud with emphasis. Use the "larger" character style to enlarge such portions of text.
 
 ## Exporting from InDesign
 Export as PNG. The settings are:
