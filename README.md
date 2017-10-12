@@ -1,5 +1,5 @@
 # Talk Titles
-This is a collection of on-screen talk titles for use during congregation public meetings. Their style is meant to compliment the new song videos. The files are 1920 x 1080px PNGs optimized for 1080p screens.  
+This is a collection of on-screen talk titles for use during congregation public meetings. Their style is meant to compliment the new song videos. The files are PNG format with a resolution of 1920 x 1080 pixels (optimized for 1080p screens).  
 
 The images are exported from Adobe InDesign CC. The content is based on the S-99 form. Keep reading if you want to know how I compile these. I'm sure there is a better way to do this, so I'm open to suggestions. 
 
