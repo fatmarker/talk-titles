@@ -9,10 +9,10 @@ The fastest way I have found is by the following steps:
 1) select and copy the text of the S-99
 2) paste into a text editor
 3) clean up the file: make sure each title is on a separate line; remove running footers 
-4) save as .csv (see `assets/examples/talk-title-import.csv`)
-5) in Excel or Calc, use the import feature
-6) choose to separate data by '.' (period)
-7) import; the talk numbers and titles should be in 2 separate columns
+4) save as `.csv`-file with UTF-8 encoding (see `assets/examples/talk-title-import.csv` for an example)
+5) open the file in OpenOffice (easier than Excel)
+6) choose a '.' (period) as your custom delimiter; set Character Set to Unicode (UTF-8); Open
+7) the talk numbers and titles should be in 2 separate columns; if not, go back and try again
 8) copy the talk title column
 9) paste into InDesign
 
