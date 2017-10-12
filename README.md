@@ -28,7 +28,7 @@ To accomodate different lengths of talk titles, there are 3 page templates to ch
   
 Start with the 3-line template to give you room for experimentation. Apply good text layout principles. Add line breaks where necessary. Ask someone with experience in text layout and a strong grasp of the language to assist you.  
   
-Poorly laid-out talk text can be distracting to the distinguishing eye.
+Poorly laid-out text can be distracting.
 
 ## Exporting from InDesign
 Export as PNG. The settings are:
