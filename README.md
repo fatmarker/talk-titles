@@ -60,9 +60,7 @@ All pages
 Anti-alias
 
 ## Translation
-If you want these in another language, all the files are here for you to do that; I will only maintain the English version.  
-
-New branches may be created for different languages. Ask if you would like to contribute.
+If you want these in another language, all the files are here for you to do that; I will only maintain the English version. Create a new fork for another language.
 
 ## Versioning
 The version number is based on the date of the S-99, its language code, and builds.  
