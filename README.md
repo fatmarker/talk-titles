@@ -23,8 +23,8 @@ Export as PNG. The settings are:
 All pages
 
 ### Image
-• Quality: Maximum
-• Resolution (ppi): 72
+• Quality: Maximum  
+• Resolution (ppi): 72  
 • Color Space: RGB
 
 ### Options
