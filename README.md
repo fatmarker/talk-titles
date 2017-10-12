@@ -8,11 +8,11 @@ The fastest way I have found is by the following steps:
 
 1) select and copy the text of the S-99
 2) paste into a plain text document and save
-3) using Excel or Calc, use the import feature
-4) separate data by '.' (period)
-5) import; this will separate the talk numbers and titles into 2 columns
+3) in Excel or Calc, use the import feature
+4) choose to separate data by '.' (period)
+5) import; the talk numbers and titles should be in 2 separate columns
 6) copy the talk title column
-7) paste into the InDesign file in this repository
+7) paste into InDesign
 
 You will still have to make minor adjustments to the individual pages (slides). But at least now you don't have to individually copy 200 lines of text (or delete 200 numbers).
 
