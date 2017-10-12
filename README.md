@@ -23,7 +23,7 @@ You will still have to make minor adjustments to the individual pages (slides). 
 
 
 ### Centering
-Text is horizontally centered by default. Vertical centering isn't as simple. Some titles are short, others are long. So a different number of lines is possible. To vertically center the text, I've provided template pages for the different numbers of lines:
+Text is horizontally centered by default. Vertical centering isn't as simple. Some titles are short, others are long. So a different number of lines is possible. To vertically center the text, I've provided template pages for the different numbers of lines:  
 • 1L = 1-line  
 • 2L = 2-line  
 • 3L = 3-line  
