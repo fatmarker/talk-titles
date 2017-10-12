@@ -31,9 +31,9 @@ All pages
 Anti-alias
 
 ## Adjustments
-There are 3 possible page templates to accomodate different lengths of talk titles:
-• 1L = 1-line
-• 2L = 2-line
+There are 3 possible page templates to accomodate different lengths of talk titles:  
+• 1L = 1-line  
+• 2L = 2-line  
 • 3L = 3-line
 
 ## Versioning
