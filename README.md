@@ -1,7 +1,7 @@
 # Talk Titles
-This is a collection of on-screen talk titles for use during congregation public meetings. They are made in the style of the new song videos. The images are exported from Adobe InDesign CC. The content is based on the S-99 form.
+This is a collection of on-screen talk titles for use during congregation public meetings. Their style is meant to compliment the new song videos. The files are 1920 x 1080px PNGs optimized for 1080p screens.  
 
-Keep reading if you want to know how I compile these. I'm sure there is a better way to do this, so I'm open to suggestions.
+The images are exported from Adobe InDesign CC. The content is based on the S-99 form. Keep reading if you want to know how I compile these. I'm sure there is a better way to do this, so I'm open to suggestions. 
 
 ## Copying Talk Titles into InDesign
 The fastest way I have found is by the following steps:
