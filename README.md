@@ -20,20 +20,27 @@ The fastest way I have found is by the following steps:
 You will still have to make minor adjustments to the individual pages (slides). But at least now you don't have to individually copy 200 lines of text (or delete 200 numbers).
 
 ## Adjustments
-Some titles are short, some are long. Go through each page to make sure it looks okay.  
 
-To accomodate different lengths of talk titles, there are 3 page templates to choose from:  
+
+### Centering
+Text is horizontally centered by default. Vertical centering isn't as simple. Some titles are short, others are long. So a different number of lines is possible. To vertically center the text, I've provided template pages for the different numbers of lines:
 • 1L = 1-line  
 • 2L = 2-line  
-• 3L = 3-line
+• 3L = 3-line  
+• 4L = 4-line
   
-Start with the 3-line template to give you room for experimentation. Apply good text layout principles. Add line breaks where necessary. Ask someone with experience in text layout and a strong grasp of the language to assist you.  
+The actualthe number of lines you need will depend on line breaks you add to each title. Do this first.
+
+### Line Breaks
+
+Start with the 4-line template to give you room for experimentation. Apply good typography principles. Ask someone with experience in text layout, and who also has a strong grasp of the language to assist you.  
   
 Poorly laid-out text can be distracting.  
 
 Here are a few simple rules to follow:  
+- line break after commas and other punctuation
+- line break after em-dashes, not before
 - a preposition remains on the same line as its object
-- line breaks should come before em-dashes and not after
 
 ### Bold Text
 Sometimes part of a title is naturally emphasised when read aloud. Use the character style "larger" to enlarge such portions of text.
