@@ -35,8 +35,8 @@ Here are a few simple rules to follow:
 - a preposition remains on the same line as its object
 - line breaks should come before em-dashes and not after
 
-### Styles
-Sometimes part of a title is naturally read aloud with emphasis. Use the "larger" character style to enlarge such portions of text.
+### Bold Text
+Sometimes part of a title is naturally emphasised when read aloud. Use the character style "larger" to enlarge such portions of text.
 
 ## Exporting from InDesign
 Export as PNG. The settings are:
