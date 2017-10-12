@@ -63,8 +63,11 @@ Anti-alias
 If you want these in another language, all the files are here for you to do that; I will only maintain the English version. Create a new fork for another language.
 
 ## Versioning
-The version number is based on the date of the S-99, its language code, and builds.  
+The version number is based on the date of the S-99, and the build number.  
   
-[S-99 year].[S-99 month].[build]
+v[S-99 year].[S-99 month].[build]
 
-For example: 16.1.0
+For example: `v16.1.0`
+
+## Extras
+The `id` folder also contains a template for talks for the CO’s visit.
