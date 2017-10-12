@@ -16,6 +16,14 @@ The fastest way I have found is by the following steps:
 
 You will still have to make minor adjustments to the individual pages (slides). But at least now you don't have to individually copy 200 lines of text (or delete 200 numbers).
 
+## Adjustments
+To accomodate different lengths of talk titles, there are 3 page templates to choose from:  
+• 1L = 1-line  
+• 2L = 2-line  
+• 3L = 3-line
+  
+You will have to go through every page to see which one fits best. When applying good text layout principles, you might have to add line breaks to see what looks best. Therefore it makes sense to start with the 3-line template to give you room for experimentation. 
+
 ## Exporting from InDesign
 Export as PNG. The settings are:
 
@@ -30,11 +38,8 @@ All pages
 ### Options
 Anti-alias
 
-## Adjustments
-There are 3 possible page templates to accomodate different lengths of talk titles:  
-• 1L = 1-line  
-• 2L = 2-line  
-• 3L = 3-line
+## Translation
+If you want these in another language, all the files are here for you to do that; I will only maintain the English version.
 
 ## Versioning
 The version number is based on the date of the S-99, its language code, and builds.  
