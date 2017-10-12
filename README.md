@@ -19,13 +19,16 @@ The fastest way I have found is by the following steps:
 You will still have to make minor adjustments to the individual pages (slides). But at least now you don't have to individually copy 200 lines of text (or delete 200 numbers).
 
 ## Adjustments
-Some titles are short, some are long. Go through each page to make sure it looks alright. to line breaks. 
+Some titles are short, some are long. Go through each page to make sure it looks okay.  
+
 To accomodate different lengths of talk titles, there are 3 page templates to choose from:  
 • 1L = 1-line  
 • 2L = 2-line  
 • 3L = 3-line
   
-Start with the 3-line template to give you room for experimentation. When applying good text layout principles, you might have to add line breaks to see what looks best. Therefore it makes sense to start with the 3-line template to give you room for experimentation. 
+Start with the 3-line template to give you room for experimentation. Apply good text layout principles. Add line breaks where necessary. Ask someone with experience in text layout and a strong grasp of the language to assist you.  
+  
+Poorly laid-out talk text can be distracting to the distinguishing eye.
 
 ## Exporting from InDesign
 Export as PNG. The settings are:
