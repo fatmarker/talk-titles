@@ -16,18 +16,18 @@ The fastest way I have found is by the following steps:
 
 You will still have to make minor adjustments to the individual pages (slides). But at least now you don't have to individually copy 200 lines of text (or delete 200 numbers).
 
-##Exporting from InDesign
+## Exporting from InDesign
 Export as PNG. The settings are:
 
-###Export
+### Export
 All pages
 
-###Image
+### Image
 • Quality: Maximum
 • Resolution (ppi): 72
 • Color Space: RGB
 
-###Options
+### Options
 Anti-alias
 
 ## Adjustments
