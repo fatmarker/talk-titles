@@ -1,31 +1,49 @@
 # Talk Titles
-This is a collection of on-screen talk titles for use during congregation public meetings. They are made in the style of the new song videos. The images are exported from Adobe InDesign CC. The content is based on the S-99 form.
+This is a collection of on-screen talk titles for use during congregation public meetings. Their style is meant to compliment the new song videos. The files are PNG format with a resolution of 1920 x 1080 pixels (optimized for 1080p screens).  
 
-Keep reading if you want to know how I compile these. I'm sure there is a better way to do this, so I'm open to suggestions.
+The images are exported from Adobe InDesign CC. The content is based on the S-99 form. Keep reading if you want to know how I compile these. I'm sure there is a better way to do this, so I'm open to suggestions. 
 
-## Copying Talk Titles into InDesign
+## Copying Text into InDesign
 The fastest way I have found is by the following steps:
 
 1) select and copy the text of the S-99
 2) paste into a text editor
 3) clean up the file: make sure each title is on a separate line; remove running footers 
-4) save as .csv (see `assets/examples/talk-title-import.csv`)
-5) in Excel or Calc, use the import feature
-6) choose to separate data by '.' (period)
-7) import; the talk numbers and titles should be in 2 separate columns
+4) save as `.csv`-file with UTF-8 encoding (see `assets/examples/talk-title-import.csv` for an example)
+5) open the file in OpenOffice (easier than Excel)
+6) choose a '.' (period) as your custom delimiter; set Character Set to Unicode (UTF-8); Open
+7) the talk numbers and titles should be in 2 separate columns; if not, go back and try again
 8) copy the talk title column
-9) paste into InDesign
+9) open the file `assets/id/talk-titles-new.indt`
+10) paste into the first page; each title will create a new page
 
 You will still have to make minor adjustments to the individual pages (slides). But at least now you don't have to individually copy 200 lines of text (or delete 200 numbers).
 
 ## Adjustments
-Some titles are short, some are long. Go through each page to make sure it looks alright. to line breaks. 
-To accomodate different lengths of talk titles, there are 3 page templates to choose from:  
+
+
+### Centering
+Text is horizontally centered by default. Vertical centering isn't as simple. Some titles are short, others are long. So a different number of lines is possible. To vertically center the text, I've provided template pages for the different numbers of lines:  
 • 1L = 1-line  
 • 2L = 2-line  
-• 3L = 3-line
+• 3L = 3-line  
+• 4L = 4-line
   
-Start with the 3-line template to give you room for experimentation. When applying good text layout principles, you might have to add line breaks to see what looks best. Therefore it makes sense to start with the 3-line template to give you room for experimentation. 
+The actualthe number of lines you need will depend on line breaks you add to each title. Do this first.
+
+### Line Breaks
+
+Start with the 4-line template to give you room for experimentation. Apply good typography principles. Ask someone with experience in text layout, and who also has a strong grasp of the language to assist you.  
+  
+Poorly laid-out text can be distracting.  
+
+Here are a few simple rules to follow:  
+- line break after commas and other punctuation
+- line break after em-dashes, not before
+- a preposition remains on the same line as its object
+
+### Bold Text
+Sometimes part of a title is naturally emphasised when read aloud. Use the character style "larger" to enlarge such portions of text.
 
 ## Exporting from InDesign
 Export as PNG. The settings are:
