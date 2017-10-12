@@ -3,7 +3,7 @@ This is a collection of on-screen talk titles for use during congregation public
 
 The images are exported from Adobe InDesign CC. The content is based on the S-99 form. Keep reading if you want to know how I compile these. I'm sure there is a better way to do this, so I'm open to suggestions. 
 
-## Copying Talk Titles into InDesign
+## Copying Text into InDesign
 The fastest way I have found is by the following steps:
 
 1) select and copy the text of the S-99
