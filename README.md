@@ -1,5 +1,5 @@
 # Talk Titles
-This is a collection of on-screen talk titles for use during congregation public meetings. Their style is meant to compliment the new song videos. The files are PNG format with a resolution of 1920 x 1080 pixels (optimized for 1080p screens).  
+This is a collection of on-screen talk titles for use during congregation public meetings. Their style is meant to compliment the song videos. The files are PNG format with a resolution of 1920 x 1080 pixels (optimized for 1080p screens).  
 
 The images are exported from Adobe InDesign CC. The content is based on the S-99 form. Keep reading if you want to know how I compile these. I'm sure there is a better way to do this, so I'm open to suggestions. 
 
@@ -63,9 +63,9 @@ Anti-alias
 If you want these in another language, all the files are here for you to do that; I will only maintain the English version. Create a new fork for another language.
 
 ## Versioning
-The version number is based on the date of the S-99, and the build number.  
+The version number is based on the date of the S-99, and my build number.  
   
-v[S-99 year].[S-99 month].[build]
+v[S-99-year].[S-99-month].[my-build]
 
 For example: `v16.1.0`
 
