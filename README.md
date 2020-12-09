@@ -1,7 +1,7 @@
 # Talk Titles
-This is a collection of on-screen talk titles for use during congregation public meetings. Their style is meant to compliment the song videos. The files are PNG format with a resolution of 1920 x 1080 pixels (optimized for 1080p screens).  
+This is a collection of images used to introduce the public talk during congregation weekend meetings. Their style is meant to compliment the meeting song videos. The files are PNG format with a resolution of 1920 x 1080 pixels (optimized for 1080p screens).  
 
-The titles are based on the latest S-99 form. However, the S-99 is not refreshed every time an outline is updated on JW.org. Therefore I try to keep these images up to date the best I can as time allows.
+The titles are based on the latest S-99 form. However, the S-99 is not refreshed every time an outline is updated on JW.org. Therefore I try to keep these images up to date the best I can.
 
 Any blank images are because those outlines are not available or not to be presented any longer.
 
