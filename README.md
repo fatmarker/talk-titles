@@ -20,7 +20,7 @@ The fastest way I have found is by the following steps:
 8) Open
 7) the talk numbers and titles should be in 2 separate columns; if not, go back and try again
 8) copy the talk title column
-9) open the file `assets/id/talk-titles-new.indt`
+9) open the file `source/id/talk-titles-new.indt`
 10) paste into the first page; each title will create a new page
 
 You will still have to make minor adjustments to the individual pages (slides). But at least now you don't have to copy and paste 200 lines of text (or delete 200 numbers).
